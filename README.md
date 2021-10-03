@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Eucario Xelo @exelo. I’m interested learning about new technology. This code is purely and strictly from my brain.
 * 📫 Eucario.Xelo@gmail.com
-* :iphone: (347) 272 - 5466
 
 <!---
 exelo/exelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
