@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eucario Xelo @exelo. I’m interested learning about new technology. This code is purely and strictly from my brain.
+- 👋 Hi, I’m Eucario Xelo @exelo. I’m interested learning about new technology.
 * 📫 Eucario.Xelo@gmail.com
 
 <!---
