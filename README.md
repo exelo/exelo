@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Eucario Xelo @exelo. I’m interested learning about new technology.
+👋 Hi, I’m Eucario Xelo. I’m interested in learning about new Tech! 10+ of professional experience. My companies mostly had proprietary in-house software. Have not had time to add scripts and code here, but will try to make updates as much as I can...
+
 * 📫 Eucario.Xelo@gmail.com
 
 <!---
